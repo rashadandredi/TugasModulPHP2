@@ -1,0 +1,11 @@
+# TugasModulPHP2
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/31.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/32.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/33.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/34.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/35.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/36.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/41.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/42.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/43.PNG)
+![alt text](https://github.com/rashadandredi/TugasModulPHP2/blob/master/hasil/44.PNG)
